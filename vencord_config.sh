@@ -3,7 +3,7 @@
 #!/bin/bash
 
 WAL_COLORS="$HOME/.cache/wal/colors.sh"
-THEME_CONFIG="$HOME/Discord_themes/system24.theme.css"
+THEME_CONFIG="$HOME/.config/Vencord/themes/system24.theme.css"
 
 [[ -f $WAL_COLORS ]] && source "$WAL_COLORS"
 for i in {1..5}; do
